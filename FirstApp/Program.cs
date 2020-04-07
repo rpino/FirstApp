@@ -24,7 +24,7 @@ namespace FirstApp
 
         public static void multiplicationTable(int number)
         {           
-            int result;
+            int result; 
 
             for(int i = 1; i <= 10; i++)
             {
